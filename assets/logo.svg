@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 120" width="540" height="120" aria-label="Unstaff">
+  <defs>
+    <!-- Left-to-right gradient: lighter gray/white on left to darker gray on right -->
+    <linearGradient id="unstaffGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#9CA3AF"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-0.035em" fill="url(#unstaffGrad)">Unstaff</text>
+</svg>
