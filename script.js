@@ -150,6 +150,7 @@
     revealElements.forEach(el => el.classList.add('revealed'));
   }
 
+<<<<<<< HEAD
   /* ==========================================================================
      6. Recruitment Modal: ₹200 Photo Collection Task
      ========================================================================== */
@@ -317,5 +318,7 @@
     window.addEventListener('load', initAutoDisplay);
   }
 
+=======
+>>>>>>> d8d5b066df4cb5567f4afdb8b6f60a6d21bf11ee
 })();
 
