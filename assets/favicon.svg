@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="uGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#9CA3AF"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141417"/>
+      <stop offset="100%" stop-color="#08080A"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bgGrad)" stroke="#26262B" stroke-width="1.5"/>
+  <!-- Bold U shape matching Unstaff logo geometry -->
+  <path d="M19 16 H27.5 V35.5 C27.5 40.2 30 42.5 33.5 42.5 C37 42.5 39.5 40.2 39.5 35.5 V16 H48 V35.5 C48 45.2 42.5 50 33.5 50 C24.5 50 19 45.2 19 35.5 Z" fill="url(#uGrad)"/>
+</svg>
